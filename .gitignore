@@ -220,3 +220,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,windows,jupyternotebooks
+
+
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
